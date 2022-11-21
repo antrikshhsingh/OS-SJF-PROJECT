@@ -47,9 +47,10 @@ body {
 }
 
 .container-1 {
-  width: 50%;
-  margin: 10px;
-  border: 1px;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 1000px;
+  margin-top: 36px;
 }
 
 .input-form label {
